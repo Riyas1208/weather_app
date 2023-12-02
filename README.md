@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Output
+
+
+
+https://github.com/Riyas1208/weather_app/assets/133746059/3b229308-f060-42a8-b898-82005fb0ac56
+
